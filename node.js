@@ -4,6 +4,7 @@ const config = {
   extends: ['./base'],
   env: {
     node: true,
+    browser: false,
   },
 };
 
