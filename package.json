@@ -1,0 +1,39 @@
+{
+  "name": "@alexbainter/eslint-config",
+  "version": "0.0.0",
+  "description": "ESLint configuration for my projects",
+  "main": "base.js",
+  "dependencies": {
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "files": [
+    "base.js",
+    "browser.js",
+    "node.js",
+    "react.js"
+  ],
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalex9/eslint-config.git"
+  },
+  "author": "Alex Bainter <alex@alexbainter.com> (https://alexbainter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalex9/eslint-config/issues"
+  },
+  "homepage": "https://github.com/metalex9/eslint-config#readme",
+  "engines": {
+    "node": ">=14.15.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
