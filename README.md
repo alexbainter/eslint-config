@@ -26,4 +26,4 @@ Extend `@alexbainter/eslint-config/browser`.
 
 ### React
 
-Extend `@alexbainter/eslint-config-react`.
+Extend `@alexbainter/eslint-config/react`.
